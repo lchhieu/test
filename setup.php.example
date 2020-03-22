@@ -1,0 +1,10 @@
+<?php
+
+global $secrets;
+
+$secrets = [
+    'coefficients' => [
+        'weight' => 11,
+        'dimension' => 11,
+    ]
+];
